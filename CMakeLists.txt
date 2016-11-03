@@ -21,6 +21,7 @@ include_directories(
 )
 
 add_library(aruco
+  src/aruco/arucofidmarkers.cpp
   src/aruco/cvdrawingutils.cpp
   src/aruco/cameraparameters.cpp
   src/aruco/board.cpp

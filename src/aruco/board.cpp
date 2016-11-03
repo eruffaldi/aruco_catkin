@@ -43,7 +43,7 @@ or implied, of Rafael Muñoz Salinas.
 #include <fstream>
 #include <string>
 #include <vector>
-
+using namespace cv;
 namespace aruco
 {
 /**
